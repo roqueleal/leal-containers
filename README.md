@@ -3,7 +3,8 @@
 Premier conteneur Image Docker
 
 
-ssh ip172-18-0-20-c7sfhivnjsv000cbh5ag@direct.labs.play-with-docker.com
+ssh ipxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# login Docker
 docker login
 git clone https://github.com/roqueleal/leal-containers.git
 cd leal-containers/hello-alpine
